@@ -1,0 +1,75 @@
+#navbar{
+  position: fixed;
+  margin-right: 80%;
+  Overflow-y:scroll;
+  height: 550px;
+  
+}
+
+.nav-link {
+  
+  font-size: 30px;
+  color: #8B0000;
+  text-decoration: none;
+  font-family: helvetica;
+  
+  
+  
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+ 
+}
+
+#logo {
+  margin: -20px 0px 0px -350px;
+  width: 200px;
+  height: 100px;
+  position: fixed;
+  opactiy: 0;
+}
+#anatomy-image {
+  width: 50%;
+  height: 50%;
+}
+header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#nav-header{
+  font-family: helvetica;
+  font-weight: normal;
+  padding: 10px;
+}
+.main-section{
+  margin-left: 350px;
+  font-size: 25px; 
+}
+#elements-image {
+  width: 50%;
+  height: 50%;
+  float: right;
+  margin-top: -25px;
+}
+
+footer{
+  font-size: 20px;
+  margin: 50px 0px 50px 800px;
+}
+
+@media screen and (max-width: 815px){
+  #navbar{
+   margin-right: 60%;
+   position: fixed;
+  }
+}
+
+@media screen and (max-width: 400px){
+   #navbar{
+    margin-right: 60%;
+    position: fixed;
+  }
+}
