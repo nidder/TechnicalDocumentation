@@ -1,4 +1,4 @@
-# TechnicalDocumentation
+# Technical Documentation Page
 
 A HTML technical documentation page created using HTML and CSS.
 
